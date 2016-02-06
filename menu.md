@@ -4,12 +4,12 @@
 * Pancakes with bacon
 * Granola with yoghurt
 * Fried chicken and waffles
-* Eggs benedict with bacon
+* Eggs benedict without bacon
 
 # Dinner
 * Lamb cutlets
 * Fish and chips
-* Steak suprise
+* Steak dissapointment
 
 # Desert
 * Creme Brulee
@@ -19,6 +19,6 @@
 ## Drinks
 * Coffee
 * Banana and Blueberry smoothie
-* Beer
+* ~~Beer~~ (sorry)
 * Wine
 * Whiskey
