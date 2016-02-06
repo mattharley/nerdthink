@@ -10,7 +10,7 @@
 * Lamb cutlets
 * Fish and chips
 * Steak suprise
-* Chicken wings with blue cheese sauce
+* Sharing platter
 
 # Desert
 * Creme Brulee
