@@ -2,9 +2,9 @@
 
 ## Brunch
 * Pancakes with bacon
-* Granola with yoghurt
 * Fried chicken and waffles
 * Eggs benedict with bacon
+* Big breakfast
 
 # Dinner
 * Lamb cutlets
